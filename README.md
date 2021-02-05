@@ -3,7 +3,7 @@
 ## Document for Javascript
 
 
-### * JavaScript programs can be inserted almost anywhere into an HTML document using the <script> tag.
+  * JavaScript programs can be inserted almost anywhere into an HTML document using the <script> tag.
   
 ```
 <script>
@@ -37,7 +37,7 @@ of comment
 
 ## 1 Let
 
-  #### * It is used for 'Name storage' for data
+  ####  It is used for 'Name storage' for data
   
 
 ```
@@ -153,7 +153,7 @@ let person = {name:"james", age:"35", id:"1234"};
 
 # Type Conversions
 
-## String Conversion
+## 1 String Conversion
 
    * It is used when we need a string value from variable it converts variable to string value
     
@@ -164,6 +164,48 @@ alert(typeof value);
 value = String(value);
 alert(typeof value); 
 ```
+
+## 2 Numeric Conversion
+  
+  * Numeric conversion happens in mathematical form and it is used to convert a value to number
+  
+  ```
+  let str = "13";
+  alert(typeof str); 
+
+  let num = Number(str); // becomes a number 123
+
+  alert(typeof num); // number
+  ```
+  
+## 3 Boolean Conversion
+
+ * It is used for logical operations to test a condition. If value is null, NaN, undefined, becomes False in this 
+  condition and other values are True
+  
+  ```
+alert( Boolean(1) ); 
+alert( Boolean(0) ); 
+
+alert( Boolean("hello") );
+alert( Boolean("") );
+```
+
+# Math Operators with Precedence
+
+### Precedence	Name	Sign
+
+   * 16	    exponentiation	  **
+   
+   * 15	    multiplication	  *
+   
+   * 15	       division	      /
+   
+   * 13	      addition	      +
+   
+   * 13	      subtraction     -
+   
+   * 3	       assignment	    =
 
 
 
