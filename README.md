@@ -2,7 +2,7 @@
 
 Document for Javascript
 
-Headers
+**Headers**
 # H1
 ## H2
 ### H3
@@ -10,7 +10,7 @@ Headers
 ##### H5
 ###### H6
 
-JavaScript programs can be inserted almost anywhere into an HTML document using the <script> tag.
+**JavaScript programs can be inserted almost anywhere into an HTML document using the <script> tag.**
 ```
 <script>
   
@@ -19,5 +19,6 @@ JavaScript programs can be inserted almost anywhere into an HTML document using 
 
 </script>
 ```
+
 
 
