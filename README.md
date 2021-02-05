@@ -3,7 +3,7 @@
 ## Document for Javascript
 
 
-### JavaScript programs can be inserted almost anywhere into an HTML document using the <script> tag.
+### * JavaScript programs can be inserted almost anywhere into an HTML document using the <script> tag.
   
 ```
 <script>
@@ -37,7 +37,7 @@ of comment
 
 ## 1 Let
 
-  #### It is used for 'Name storage' for data
+  #### * It is used for 'Name storage' for data
   
 
 ```
