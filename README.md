@@ -215,7 +215,7 @@ alert( Boolean("") );
     
    ## Boolean is the result 
     
-   * We get result in True or False in comparison
+   * We get result in True or False after comparison
    
    ## 1 String Comparison
    
