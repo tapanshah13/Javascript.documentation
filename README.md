@@ -195,17 +195,17 @@ alert( Boolean("") );
 
 ### Precedence	Name	Sign
 
-   * 16	    exponentiation	  **
+   * 16	     exponentiation	     **
    
-   * 15	    multiplication	  *
+   * 15	     multiplication	     *
    
-   * 15	       division	      /
+   * 15	     division	           /
    
-   * 15       reminder        %
+   * 15      reminder            %
    
-   * 13	      addition	      +
+   * 13	     addition	           +
    
-   * 13	      subtraction     -
+   * 13	     subtraction         -
    
    
 
