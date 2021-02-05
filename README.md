@@ -1,6 +1,6 @@
 # Javascript.documentation
 
-#Document for Javascript
+# Document for Javascript
 
 
 # JavaScript programs can be inserted almost anywhere into an HTML document using the <script> tag.
@@ -32,8 +32,9 @@ of comment
 
 #Variables
 
-##1 Let
-*It is used for 'Name storage' for data
+## 1 Let
+
+  *It is used for 'Name storage' for data
 
 ```
 <script>
@@ -45,13 +46,13 @@ document.getElementById("demo").innerHTML ="The total is: " + total;
 
 </script>
 
-##2 Var
+## 2 Var
 
-The main difference between let and var is that scope of a variable defined with let is limited to the block in which it is declared while variable declared with var has the global scope. ... But we can access variable with var from window object if it is defined globally.
+ The main difference between let and var is that scope of a variable defined with let is limited to the block in which it is declared while variable declared with var has the global scope. ... But we can access variable with var from window object if it is defined globally.
 
-##3 Const
+## 3 Const
 
-To declare a constant (unchanging) variable, use const instead of let
+ To declare a constant (unchanging) variable, use const instead of let
 
 ```
 <script>
@@ -62,46 +63,47 @@ myBirthday = '01.01.2001';
 </script>
 ```
 
-#Operators
+# Operators
 
-##JavaScript Arithmetic Operators
-Arithmetic operators are used to perform arithmetic operations
-##JavaScript Assignment Operators
-Assign values to JavaScript variables
-##Adding String Operators
-The + operator can also be used to add (concatenate) strings
-##Adding Strings and Numbers
-Adding a number and a string will return a string
-##Comparison Operators
-Compares a difference between variables or values
-##Logical Operators
-Determine the logic between variables or values.
-##Typeof operators
-We can use typeof operators to find a data type of variable
+## JavaScript Arithmetic Operators
+ Arithmetic operators are used to perform arithmetic operations
+## JavaScript Assignment Operators
+ Assign values to JavaScript variables
+## Adding String Operators
+ The + operator can also be used to add (concatenate) strings
+## Adding Strings and Numbers
+ Adding a number and a string will return a string
+## Comparison Operators
+ Compares a difference between variables or values
+## Logical Operators
+ Determine the logic between variables or values.
+## Typeof operators
+ We can use typeof operators to find a data type of variable
 
 
-#Data Types
-##*In JavaScript there are 5 different data types that can contain values:
-  *string
-  *number
-  *boolean
-  *object
-  *function
+# Data Types
+## *In JavaScript there are 5 different data types that can contain values:
+   *string
+   *number
+   *boolean
+   *object
+   *function
 
-##*There are 6 types of objects:
-  *Object
-  *Date
-  *Array
-  *String
-  *Number
-  *Boolean
+## *There are 6 types of objects:
+   *Object
+   *Date
+   *Array
+   *String
+   *Number
+   *Boolean
 
-##*Data types that cannot contain values:
-  *null
-  *undefined
+## *Data types that cannot contain values:
+   *null
+   *undefined
 
-#alert
-Give a alert box message and waits for user to press 'OK'
+# alert
+ Give a alert box message and waits for user to press 'OK'
+ 
 ```
 alert("Hello");
 ```
