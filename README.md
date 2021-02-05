@@ -201,11 +201,13 @@ alert( Boolean("") );
    
    * 15	       division	      /
    
+   * 15       reminder        %
+   
    * 13	      addition	      +
    
    * 13	      subtraction     -
    
-   * 3	       assignment	    =
+   
 
 
 
