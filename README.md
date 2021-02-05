@@ -208,6 +208,40 @@ alert( Boolean("") );
    * 13	     subtraction         -
    
    
+   # Comparisons
+   
+   
+   * In this we will learn about different types of comaparisons in javascript
+    
+   ## Boolean is the result 
+    
+   * We get result in True or False in comparison
+   
+   ## 1 String Comparison
+   
+   * In this string gets compare with eachother for this javascript use 'Dictionary' order
+   
+   
+   ```
+   alert( 'P' > 'D' );  // true
+alert( 'Goal' > 'Gold' ); // false
+alert( 'Ball' > 'Bee' ); // true
+```
+
+## 2 Comparison of different types
+  * It is comparison between different data types 
+  
+  ```
+  alert( '2' > 1 ); // true
+  alert( '01' == 1 ); // true
+  alert( true == 1 ); // true
+  alert( false == 0 ); // true
+  ```
+ 
+  
+  
+   
+   
 
 
 
