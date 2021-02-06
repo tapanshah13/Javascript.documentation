@@ -1,4 +1,4 @@
-# Javascript.documentation
+# Javascript Documentation
 
 ## Document for Javascript
 
