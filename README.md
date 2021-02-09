@@ -27,8 +27,8 @@
 # Comments
 
 ```
-*//For one line comments
-*/*For multiple line 
+//For one line comments
+/*For multiple line 
 of comment
 */
 ```
